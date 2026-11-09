@@ -35,7 +35,7 @@ python baseline.py   # logistic regression; writes results/baseline_metrics.json
 
 - [x] Download and cleaning pipeline
 - [x] Logistic regression baseline
-- [ ] Random forest (scikit-learn)
+- [~] Random forest (scikit-learn): 
 - [ ] Neural network (PyTorch)
 - [ ] Feature importance: coefficients, permutation importance
 - [ ] Performance across location types (reporting-bias check)
